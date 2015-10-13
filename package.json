@@ -1,0 +1,40 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node.js Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omurekol/Node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crud",
+    "login"
+  ],
+  "author": "omur alc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omurekol/Node/issues"
+  },
+  "homepage": "https://github.com/omurekol/Node#readme",
+  "dependencies": {
+  "bucker": "^1.1.1",
+  "handlebars": "^4.0.3",
+  "hapi": "^10.3.0",
+  "hapi-auth-cookie": "^3.1.0",
+  "i18n": "^0.5.0",
+  "inert": "^3.0.2",
+  "joi": "~6.9.0",
+  "lout": "^7.2.0",
+  "mongoose": "^4.1.10",
+  "passport-local-mongoose": "^3.1.0",
+  "path": "^0.12.7",
+  "q": "~1.4.1",
+  "underscore": "^1.8.3",
+  "vision": "^3.0.0"
+  }
+}
