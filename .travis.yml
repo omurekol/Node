@@ -12,5 +12,4 @@ before_script:
   - npm install -g bower
   - bower install
   - express install
-script:
-- npm test
+script: npm test
